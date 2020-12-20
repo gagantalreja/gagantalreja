@@ -44,7 +44,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja)](https://github.com/foxy17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja)](https://github.com/gagantalreja)
 
 [instagram]: https://www.instagram.com/gagantalreja/
 [linkedin]: https://www.linkedin.com/in/gagantalreja/
