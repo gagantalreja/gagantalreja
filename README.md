@@ -6,9 +6,7 @@
 - 🥅 2020 Goals: To complete AWS specialization.
 - ⚡ Fun fact: I love to write poetry.
 
-<br />
-
-### Languages and Tools:
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
@@ -28,12 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### My Github Stats
 
-
-<br />
-<br />
-
----
 <img align="left" alt="gagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gagantalreja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,java,html&theme=tokyonight">
 
