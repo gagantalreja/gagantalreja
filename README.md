@@ -41,7 +41,7 @@
 
 ---
 <img align="left" alt="gagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gagantalreja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,java,html&theme=tokyonight)](https://github.com/gagantalreja)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,java,html&theme=tokyonight)](https://github.com/gagantalreja)
 
 ![](https://komarev.com/ghpvc/?username=gagantalreja&color=green)
 
