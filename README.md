@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Arnav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gagan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gagan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Gagan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -44,10 +44,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja)](https://github.com/gagantalreja)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,java,html&theme=tokyonight)](https://github.com/gagantalreja)
 
 [instagram]: https://www.instagram.com/gagantalreja/
 [linkedin]: https://www.linkedin.com/in/gagantalreja/
 [twitter]: https://www.twitter.com/gagantalreja
+
+![](https://komarev.com/ghpvc/?username=gagantalreja&color=green)
 
 
