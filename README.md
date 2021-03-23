@@ -28,8 +28,10 @@
 
 ### My Github Stats
 
-<img align="left" alt="gagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gagantalreja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,java,html&theme=tokyonight">
+<p align = "center">
+  <img align="left" alt="gagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gagantalreja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,cpp,html,tcl&theme=tokyonight">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=gagantalreja&color=green)
 
