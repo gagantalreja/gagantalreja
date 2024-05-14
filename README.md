@@ -1,5 +1,4 @@
-### Hi there, I'm Gagan  👋
-## I am a Infrastructure Developer
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hey there, I'm Gagan!
 
 - 🔭 I’m currently working as an Software Engineer, Infrastructure at [Schrödinger](https://schrodinger.com).
 - 🌱 At present, I'm engaged in the design and deployment of scalable infrastructure on Google Cloud Platform, utilizing Terraform and Kubernetes to effectively manage resources and applications.
