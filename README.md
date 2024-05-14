@@ -1,10 +1,11 @@
 ### Hi there, I'm Gagan  👋
-## I am a Full Stack Developer
+## I am a Infrastructure Developer
 
 - 🔭 I’m currently working as an Software Engineer, Infrastructure at [Schrödinger](https://schrodinger.com).
-- 🌱 I’m currently learning everything :p
-- 🥅 2020 Goals: To complete AWS specialization.
-- ⚡ Fun fact: I love to write poetry.
+- 🌱 At present, I'm engaged in the design and deployment of scalable infrastructure on Google Cloud Platform, utilizing Terraform and Kubernetes to effectively manage resources and applications.
+- 📚 My favourite author is [Vinod Kumar Shukla](https://hindwi.org/poets/vinod-kumar-shukla)
+- ✍️ You can read my poems [on Instagram](https://www.instagram.com/stories/highlights/18021263095827297). If you want to read my blog, follow me on [Substack](https://gagantalreja.substack.com/)
+- 📫 You can find me on [Instagram](https://www.instagram.com/gagantalreja/), [X](https://twitter.com/gagan_talreja) and [LinkedIn](https://www.linkedin.com/in/gagantalreja/)
 
 ### Languages and Tools
 
@@ -30,9 +31,6 @@
 
 <p align = "center">
   <img align="left" alt="gagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gagantalreja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagantalreja&hide=css,cpp,html,tcl&theme=tokyonight">
 </p>
-
-![](https://komarev.com/ghpvc/?username=gagantalreja&color=green)
 
 
