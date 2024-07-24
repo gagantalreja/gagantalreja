@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an Software Engineer, Infrastructure at [Schrödinger](https://schrodinger.com).
 - 🌱 At present, I'm engaged in the design and deployment of scalable infrastructure on Google Cloud Platform, utilizing Terraform and Kubernetes to effectively manage resources and applications.
-- 📚 My favourite author is [Vinod Kumar Shukla](https://hindwi.org/poets/vinod-kumar-shukla)
+- 📚 My favourite authors are [Vinod Kumar Shukla](https://hindwi.org/poets/vinod-kumar-shukla), [Gyan Chaturvedi](https://www.hindwi.org/poets/gyan-chaturvedi/profile) and [Harishankar Parsai](https://www.hindwi.org/poets/harishankar-parsai)
 - ✍️ You can read my poems on [Instagram](https://www.instagram.com/stories/highlights/18021263095827297). If you want to read my blog, follow me on [Substack](https://gagantalreja.substack.com/)
 - 📫 You can find me on [Instagram](https://www.instagram.com/gagantalreja/), [X](https://twitter.com/gagan_talreja) and [LinkedIn](https://www.linkedin.com/in/gagantalreja/)
 
